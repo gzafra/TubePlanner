@@ -1,0 +1,678 @@
+{
+  "lines": [
+	  {
+		  "id": "blackline",
+		  "name": "Black Line",
+		  "color": "#000000"
+	  },
+	  {
+		  "id": "blueline",
+		  "name": "Blue Line",
+		  "color": "#0000ff"
+	  },
+	  {
+		  "id": "redline",
+		  "name": "Red Line",
+		  "color": "#ff0000"
+	  },
+	  {
+		  "id": "greeline",
+		  "name": "Green Line",
+		  "color": "#00ff00"
+	  },
+	  {
+		  "id": "yellowline",
+		  "name": "Yellow Line",
+		  "color": "#ffff00"
+	  }
+  ],
+  "stations": [
+    {
+      "id": "black0",
+      "name": "East end",
+      "x": 2,
+      "y": 3,
+	  "line": "blackline"
+    },
+    {
+      "id": "black1",
+      "name": "Gotham street",
+      "x": 2,
+      "y": 4,
+	  "line": "blackline"
+    },
+    {
+      "id": "black2",
+      "name": "Batman street",
+      "x": 2,
+      "y": 5,
+	  "line": "blackline"
+    },
+    {
+      "id": "black3",
+      "name": "Jokers street",
+      "x": 3,
+      "y": 6,
+	  "line": "blackline"
+    },
+    {
+      "id": "black4",
+      "name": "Hawkins street",
+      "x": 4,
+      "y": 7,
+	  "line": "blackline"
+    },
+    {
+      "id": "black5",
+      "name": "Da Vinci lane",
+      "x": 5,
+      "y": 8,
+	  "line": "blackline"
+    },
+    {
+      "id": "black6",
+      "name": "South Park",
+      "x": 6,
+      "y": 9,
+	  "line": "blackline"
+    },
+    {
+      "id": "black7",
+      "name": "Newton bath tub",
+      "x": 7,
+      "y": 9,
+	  "line": "blackline"
+    },
+    {
+      "id": "black8",
+      "name": "Einstein lane",
+      "x": 8,
+      "y": 9,
+	  "line": "blackline"
+    },
+    {
+      "id": "black9",
+      "name": "Neo lane",
+      "x": 9,
+      "y": 9,
+	  "line": "blackline"
+    },
+    {
+      "id": "blue0",
+      "name": "East end",
+      "x": 2,
+      "y": 3,
+	  "line": "blueline"
+    },
+    {
+      "id": "blue1",
+      "name": "Foot stand",
+      "x": 3,
+      "y": 3,
+	  "line": "blueline"
+    },
+    {
+      "id": "blue2",
+      "name": "Football stadium",
+      "x": 4,
+      "y": 3,
+	  "line": "blueline"
+    },
+    {
+      "id": "blue3",
+      "name": "City Centre",
+      "x": 5,
+      "y": 4,
+	  "line": "blueline"
+    },
+    {
+      "id": "blue4",
+      "name": "Peter Park",
+      "x": 7,
+      "y": 4,
+	  "line": "blueline"
+    },
+    {
+      "id": "blue5",
+      "name": "Maximus",
+      "x": 9,
+      "y": 4,
+	  "line": "blueline"
+    },
+    {
+      "id": "blue6",
+      "name": "Rocky street",
+      "x": 11,
+      "y": 4,
+	  "line": "blueline"
+    },
+    {
+      "id": "blue7",
+      "name": "Boxers street",
+      "x": 12,
+      "y": 4,
+	  "line": "blueline"
+    },
+    {
+      "id": "blue8",
+      "name": "Boxing avenue",
+      "x": 13,
+      "y": 4,
+	  "line": "blueline"
+    },
+    {
+      "id": "blue9",
+      "name": "West End",
+      "x": 14,
+      "y": 4,
+	  "line": "blueline"
+    },
+    {
+      "id": "red0",
+      "name": "Neo lane",
+      "x": 9,
+      "y": 9,
+	  "line": "redline"
+    },
+    {
+      "id": "red1",
+      "name": "Trinity lane",
+      "x": 10,
+      "y": 8,
+	  "line": "redline"
+    },
+    {
+      "id": "red2",
+      "name": "Morpheus lane",
+      "x": 11,
+      "y": 7,
+	  "line": "redline"
+    },
+    {
+      "id": "red3",
+      "name": "Smith lane",
+      "x": 12,
+      "y": 6,
+	  "line": "redline"
+    },
+    {
+      "id": "red4",
+      "name": "Cypher lane",
+      "x": 13,
+      "y": 5,
+	  "line": "redline"
+    },
+    {
+      "id": "red5",
+      "name": "Boxing avenue",
+      "x": 13,
+      "y": 4,
+	  "line": "redline"
+    },
+    {
+      "id": "red6",
+      "name": "Oracle lane",
+      "x": 13,
+      "y": 3,
+	  "line": "redline"
+    },
+    {
+      "id": "red7",
+      "name": "Keymakers lane",
+      "x": 13,
+      "y": 2,
+	  "line": "redline"
+    },
+    {
+      "id": "red8",
+      "name": "Matrix stand",
+      "x": 14,
+      "y": 1,
+	  "line": "redline"
+    },
+    {
+      "id": "green0",
+      "name": "North Park",
+      "x": 5,
+      "y": 1,
+	  "line": "greenline"
+    },
+    {
+      "id": "green1",
+      "name": "Sheldon Street",
+      "x": 5,
+      "y": 2,
+	  "line": "greenline"
+    },
+    {
+      "id": "green2",
+      "name": "Greenland",
+      "x": 5,
+      "y": 3,
+	  "line": "greenline"
+    },
+    {
+      "id": "green3",
+      "name": "City Centre",
+      "x": 5,
+      "y": 4,
+	  "line": "greenline"
+    },
+    {
+      "id": "green4",
+      "name": "Stadium House",
+      "x": 5,
+      "y": 5,
+	  "line": "greenline"
+    },
+    {
+      "id": "green5",
+      "name": "Green House",
+      "x": 6,
+      "y": 5,
+	  "line": "greenline"
+    },
+    {
+      "id": "green6",
+      "name": "Green Cross",
+      "x": 6,
+      "y": 6,
+	  "line": "greenline"
+    },
+    {
+      "id": "green7",
+      "name": "South Pole",
+      "x": 6,
+      "y": 7,
+	  "line": "greenline"
+    },
+    {
+      "id": "green8",
+      "name": "South Park",
+      "x": 6,
+      "y": 8,
+	  "line": "greenline"
+    },
+    {
+      "id": "yellow0",
+      "name": "Green Cross",
+      "x": 6,
+      "y": 6,
+	  "line": "yellowline"
+    },
+    {
+      "id": "yellow1",
+      "name": "Orange Street",
+      "x": 7,
+      "y": 6,
+	  "line": "yellowline"
+    },
+    {
+      "id": "yellow2",
+      "name": "Silk board",
+      "x": 8,
+      "y": 6,
+	  "line": "yellowline"
+    },
+    {
+      "id": "yellow3",
+      "name": "Snake park",
+      "x": 9,
+      "y": 7,
+	  "line": "yellowline"
+    },
+    {
+      "id": "yellow4",
+      "name": "Morpheus lane",
+      "x": 11,
+      "y": 7,
+	  "line": "yellowline"
+    },
+    {
+      "id": "yellow5",
+      "name": "Little Street",
+      "x": 12,
+      "y": 7,
+	  "line": "yellowline"
+    },
+    {
+      "id": "yellow6",
+      "name": "Cricket Grounds",
+      "x": 13,
+      "y": 7,
+	  "line": "yellowline"
+    }
+	
+  ],
+  "edges": [
+    {
+      "id": "e0",
+      "source": "black0",
+      "target": "black1",
+	  "duration": 5,
+	  "cost": 1
+    },
+    {
+      "id": "e1",
+      "source": "black1",
+      "target": "black2",
+	  "duration": 5,
+	  "cost": 1
+    },
+    {
+      "id": "e2",
+      "source": "black2",
+      "target": "black3",
+	  "duration": 5,
+	  "cost": 1
+    },
+    {
+      "id": "e3",
+      "source": "black3",
+      "target": "black4",
+	  "duration": 5,
+	  "cost": 1
+    },
+    {
+      "id": "e4",
+      "source": "black4",
+      "target": "black5",
+	  "duration": 5,
+	  "cost": 1
+    },
+    {
+      "id": "e4",
+      "source": "black5",
+      "target": "black6",
+	  "duration": 5,
+	  "cost": 1
+    },
+    {
+      "id": "e5",
+      "source": "black6",
+      "target": "black7",
+	  "duration": 5,
+	  "cost": 1
+    },
+    {
+      "id": "e6",
+      "source": "black7",
+      "target": "black8",
+	  "duration": 5,
+	  "cost": 1
+    },
+    {
+      "id": "e7",
+      "source": "black8",
+      "target": "black9",
+	  "duration": 5,
+	  "cost": 1
+    },
+    {
+      "id": "e9",
+      "source": "blue0",
+      "target": "blue1",
+	  "duration": 5,
+	  "cost": 1
+    },
+    {
+      "id": "e10",
+      "source": "blue1",
+      "target": "blue2",
+	  "duration": 5,
+	  "cost": 1
+    },
+    {
+      "id": "e11",
+      "source": "blue2",
+      "target": "blue3",
+	  "duration": 5,
+	  "cost": 1
+    },
+    {
+      "id": "e12",
+      "source": "blue3",
+      "target": "blue4",
+	  "duration": 5,
+	  "cost": 1
+    },
+    {
+      "id": "e13",
+      "source": "blue4",
+      "target": "blue5",
+	  "duration": 5,
+	  "cost": 1
+    },
+    {
+      "id": "e14",
+      "source": "blue5",
+      "target": "blue6",
+	  "duration": 5,
+	  "cost": 1
+    },
+    {
+      "id": "e15",
+      "source": "blue6",
+      "target": "blue7",
+	  "duration": 5,
+	  "cost": 1
+    },
+    {
+      "id": "e15",
+      "source": "blue7",
+      "target": "blue8",
+	  "duration": 5,
+	  "cost": 1
+    },
+    {
+      "id": "e16",
+      "source": "blue8",
+      "target": "blue9",
+	  "duration": 5,
+	  "cost": 1
+    },
+    {
+      "id": "e18",
+      "source": "red0",
+      "target": "red1",
+	  "duration": 5,
+	  "cost": 1
+    },
+    {
+      "id": "e19",
+      "source": "red1",
+      "target": "red2",
+	  "duration": 5,
+	  "cost": 1
+    },
+    {
+      "id": "e20",
+      "source": "red2",
+      "target": "red3",
+	  "duration": 5,
+	  "cost": 1
+    },
+    {
+      "id": "e21",
+      "source": "red3",
+      "target": "red4",
+	  "duration": 5,
+	  "cost": 1
+    },
+    {
+      "id": "e22",
+      "source": "red4",
+      "target": "red5",
+	  "duration": 5,
+	  "cost": 1
+    },
+    {
+      "id": "e24",
+      "source": "red5",
+      "target": "red6",
+	  "duration": 5,
+	  "cost": 1
+    },
+    {
+      "id": "e25",
+      "source": "red6",
+      "target": "red7",
+	  "duration": 5,
+	  "cost": 1
+    },
+    {
+      "id": "e26",
+      "source": "red7",
+      "target": "red8",
+	  "duration": 5,
+	  "cost": 1
+    },
+    {
+      "id": "e27",
+      "source": "green0",
+      "target": "green1",
+	  "duration": 5,
+	  "cost": 1
+    },
+    {
+      "id": "e28",
+      "source": "green1",
+      "target": "green2",
+	  "duration": 5,
+	  "cost": 1
+    },
+    {
+      "id": "e29",
+      "source": "green2",
+      "target": "green3",
+	  "duration": 5,
+	  "cost": 1
+    },
+    {
+      "id": "e30",
+      "source": "green3",
+      "target": "green4",
+	  "duration": 5,
+	  "cost": 1
+    },
+    {
+      "id": "e31",
+      "source": "green4",
+      "target": "green5",
+	  "duration": 5,
+	  "cost": 1
+    },
+    {
+      "id": "e32",
+      "source": "green5",
+      "target": "green6",
+	  "duration": 5,
+	  "cost": 1
+    },
+    {
+      "id": "e33",
+      "source": "green6",
+      "target": "green7",
+	  "duration": 5,
+	  "cost": 1
+    },
+    {
+      "id": "e34",
+      "source": "green7",
+      "target": "green8",
+	  "duration": 5,
+	  "cost": 1
+    },
+    {
+      "id": "e35",
+      "source": "yellow0",
+      "target": "yellow1",
+	  "duration": 5,
+	  "cost": 1
+    },
+    {
+      "id": "e36",
+      "source": "yellow1",
+      "target": "yellow2",
+	  "duration": 5,
+	  "cost": 1
+    },
+    {
+      "id": "e37",
+      "source": "yellow2",
+      "target": "yellow3",
+	  "duration": 5,
+	  "cost": 1
+    },
+    {
+      "id": "e38",
+      "source": "yellow3",
+      "target": "yellow4",
+	  "duration": 5,
+	  "cost": 1
+    },
+    {
+      "id": "e39",
+      "source": "yellow4",
+      "target": "yellow5",
+	  "duration": 5,
+	  "cost": 1
+    },
+    {
+      "id": "40",
+      "source": "yellow5",
+      "target": "yellow6",
+	  "duration": 5,
+	  "cost": 1
+    },
+    {
+      "id": "e41",
+      "source": "green6",
+      "target": "yellow0",
+	  "duration": 0,
+	  "cost": 1
+    },
+    {
+      "id": "e42",
+      "source": "red0",
+      "target": "black9",
+	  "duration": 0,
+	  "cost": 1
+    },
+    {
+      "id": "e43",
+      "source": "red5",
+      "target": "blue8",
+	  "duration": 0,
+	  "cost": 1
+    },
+    {
+      "id": "e8",
+      "source": "black0",
+      "target": "blue0",
+	  "duration": 0,
+	  "cost": 1
+    },
+    {
+      "id": "e44",
+      "source": "green3",
+      "target": "blue3",
+	  "duration": 0,
+	  "cost": 1
+    },
+    {
+      "id": "e45",
+      "source": "green8",
+      "target": "black6",
+	  "duration": 0,
+	  "cost": 1
+    },
+    {
+      "id": "e46",
+      "source": "yellow4",
+      "target": "red2",
+	  "duration": 0,
+	  "cost": 1
+    }
+  ]
+}
