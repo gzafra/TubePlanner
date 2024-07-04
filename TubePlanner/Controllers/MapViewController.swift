@@ -39,7 +39,7 @@ class MapViewController: UIViewController {
         self.scrollView.addGestureRecognizer(doubleTap)
     }
     
-    func handleDoubleTap(sender: UITapGestureRecognizer?) {
+    @objc func handleDoubleTap(sender: UITapGestureRecognizer?) {
         guard let recognizer = sender else {
             return
         }

@@ -13,7 +13,7 @@ class UIKitFactory {
     /// Creates and returns a label with given text, position, size and weight (default to 1)
     static func label(withTitle labelText: String, position: CGPoint, size: CGFloat, weight: CGFloat = 1) -> UILabel {
         let label = UILabel(frame: CGRect(x: position.x, y: position.y, width: 200, height: size + 2))
-        label.font = UIFont.systemFont(ofSize: size, weight: weight)
+        label.font = UIFont.systemFont(ofSize: size, weight: UIFont.Weight(weight))
         label.textColor = .black
         label.textAlignment = .left
         label.text = labelText
